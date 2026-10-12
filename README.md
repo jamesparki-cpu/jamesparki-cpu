@@ -1,4 +1,4 @@
-## Hi there 👋
+Data Science and AI (MSc) Graduate with relevent projects in Python, pandas, and SQL.
 
 <!--
 **jamesparki-cpu/jamesparki-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
