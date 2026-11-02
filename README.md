@@ -14,7 +14,7 @@ I work mainly in **Python** on machine learning, geospatial modelling and data p
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/culex-habitat-suitability">
-        <img src="https://raw.githubusercontent.com/jamesparki-cpu/James-Parkinson-Portfolio/main/projects/culex-habitat-suitability/figures/weekly_suitability.gif" alt="Weekly mosquito habitat suitability across Florida">
+        <img src="https://raw.githubusercontent.com/jamesparki-cpu/James-Parkinson-Portfolio/main/projects/culex-habitat-suitability/figures/xgboost.gif" alt="Weekly mosquito habitat suitability across Florida">
       </a>
       <b>Mosquito habitat suitability, Florida</b><br>
       <sub>MSc dissertation. Weekly suitability maps from satellite climate and land-cover data, using XGBoost, random forest and MaxEnt, tested against simple baselines.</sub>
