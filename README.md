@@ -1,19 +1,48 @@
-# James Parkinson
+# Hi, I'm James Parkinson
  
-I am an MSc Data Science and Artificial Intelligence student at the University of Liverpool, with an undergraduate background in Biological Sciences.
+I'm an MSc Data Science and Artificial Intelligence graduate from the University of Liverpool, with an undergraduate degree in Biological Sciences. I like using data to answer questions about the real world, especially ones with a map involved.
  
-I work mainly in Python on machine learning, geospatial modelling and data pipelines, in QGIS on mapping, and in SQL on relational databases. My biology background shapes the problems I am drawn to: my MSc dissertation models where and when disease-carrying mosquitoes are likely to thrive across Florida, and my latest project maps the seasonal movements of UK birds from citizen-science records.
+I work mainly in **Python** on machine learning, geospatial modelling and data pipelines, in **QGIS** for mapping, and in **SQL** for relational databases. My biology background shapes the problems I'm drawn to. My dissertation predicts where and when disease-carrying mosquitoes are likely to thrive across Florida, and my latest project maps the seasonal movements of UK birds from 35 million citizen-science records.
  
-My project code is collected in one repository: [James Parkinson Portfolio](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio). It may be viewed and run for professional evaluation, but not reused in other work.
+**📂 All my projects are in one place: [James Parkinson Portfolio →](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio)**
  
-## Selected projects
+---
  
-- [Culex habitat suitability](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/culex-habitat-suitability): MSc dissertation. Weekly mosquito habitat-suitability models for Florida built from Google Earth Engine climate, vegetation and land-cover data, comparing XGBoost, random forest and MaxEnt under spatial block cross-validation against reference forecasts. Code in [MSc-Code](https://github.com/jamesparki-cpu/MSc-Code).
-- [UK bird seasonal atlas](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/uk-bird-seasonal-atlas): month-by-month maps of 11 UK bird species from 35 million eBird records, queried through GBIF's SQL API. Records are corrected for observer effort, smoothed with an effort-weighted kernel and built into an atlas with PyQGIS, with a resident control species to separate real seasonal movement from changes in detectability.
-- [Chest X-ray classification](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/chest-xray-classification): team project classifying lung X-rays into three classes, comparing a custom CNN with fine-tuned ResNet-18 and RegNet (0.938 macro F1 on held-out data).
-- [Neural text chunking](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/neural-chunking): team project comparing BiLSTM and Transformer sequence taggers for shallow parsing.
-- [Relational database and SQL](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/sql-database): schema design and seven queries, including relational division and quantified comparisons, with a self-checking test script.
-The portfolio also covers reinforcement learning (a Double DQN LunarLander agent and multi-armed bandits), a minimax chess agent, and database design from EER model to logical schema.
+## Selected work
  
-I also use pandas, NumPy, scikit-learn, XGBoost, PyTorch, SHAP, Matplotlib, GeoPandas, rasterio, QGIS and PyQGIS, Google Earth Engine, MariaDB/MySQL and Git.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/culex-habitat-suitability">
+        <img src="https://raw.githubusercontent.com/jamesparki-cpu/James-Parkinson-Portfolio/main/projects/culex-habitat-suitability/figures/weekly_suitability.gif" alt="Weekly mosquito habitat suitability across Florida">
+      </a>
+      <b>Mosquito habitat suitability, Florida</b><br>
+      <sub>MSc dissertation. Weekly suitability maps from satellite climate and land-cover data, using XGBoost, random forest and MaxEnt, tested against simple baselines.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jamesparki-cpu/James-Parkinson-Portfolio/tree/main/projects/uk-bird-seasonal-atlas">
+        <img src="https://raw.githubusercontent.com/jamesparki-cpu/James-Parkinson-Portfolio/main/projects/uk-bird-seasonal-atlas/figures/atlas/Cuckoo.png" alt="Cuckoo atlas page: twelve monthly UK maps">
+      </a>
+      <b>UK bird seasonal atlas</b><br>
+      <sub>Monthly maps of 11 species from 35 million eBird records, corrected for observer effort and built with PyQGIS. Here: the Cuckoo arriving in April and gone by August.</sub>
+    </td>
+  </tr>
+</table>
+Also in the portfolio: chest X-ray classification with CNNs (0.938 macro F1), a Double DQN agent that lands the LunarLander, a minimax chess agent, neural text chunking and relational database design.
  
+## Toolkit
+ 
+**Languages & data:** Python, SQL, pandas, NumPy, PyArrow<br>
+**Machine learning:** scikit-learn, XGBoost, PyTorch, SHAP<br>
+**Geospatial:** QGIS, PyQGIS, GeoPandas, rasterio, Google Earth Engine<br>
+**Other:** MariaDB/MySQL, DuckDB, Matplotlib, Git
+ 
+## Get in touch
+ 
+I'm currently looking for graduate roles in data science, geospatial analysis and renewable energy, ideally in the North West.
+ 
+[![Email](https://img.shields.io/badge/Email-james.parki%40icloud.com-0A66C2?style=flat&logo=icloud&logoColor=white)](mailto:james.parki@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Parkinson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-parkinson-1776a229a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20projects-2E7D32?style=flat&logo=github&logoColor=white)](https://github.com/jamesparki-cpu/James-Parkinson-Portfolio)
+ 
+<sub>Code in my repositories may be viewed and run for professional evaluation, but not reused in other work.</sub>
